@@ -1,2 +1,3 @@
+#Primjer TEST
 echo {:test:}
 ping {:address:}
